@@ -1,0 +1,103 @@
+.Cabeçalho {
+	text-align: center;
+}
+
+body {
+	font-family: 'Brush Script MT', cursive;
+	color: #801336;
+}
+
+.Principal {
+	background: #FECEAB;
+	margin:20px;
+	padding: 10px;
+	border: 15px solid #C72C41;
+	border-style: ridge;
+}
+
+h1 {
+	margin:10px;
+	font-size: 40px;
+	text-shadow:3px 3px #510A32;
+	border: 15px solid #801336;
+	border-style: ridge;
+	padding: 5px;
+
+	background: repeating-linear-gradient(
+   	45deg,
+  	#FECEAB,
+  	#FECEAB 10px,
+  	#FFAAA6 10px,
+  	#FFAAA6 20px
+	);
+}
+
+h2 {
+	margin-top:10px;
+	margin-bottom: 50px;
+	font-size: 25px;
+}
+
+#Mural {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 25%;
+  	margin-bottom: 50px;
+  	margin-top: 20px;
+}
+
+
+h3 {
+	font-size: 30px;
+	text-shadow:2px 2px 1px #510A32;
+}
+
+p {
+	text-align: center;
+	font-size:20px;
+	margin-left:110px;
+	margin-right:110px;
+}
+
+strong em {
+	font-size:23px;
+}
+
+.Menu {
+	display: inline-block;
+	margin-top: 70px;
+	margin-left: 180px;
+	margin-bottom: 70px;
+	margin-right: 100px;
+	border: 15px solid #510A32;
+	border-style: double;
+	padding-left: 60px;
+	padding-right: 60px;
+	padding-bottom: 5px;
+    padding-top: 5px;
+
+    background: repeating-linear-gradient(
+   	45deg,
+  	#FECEAB,
+  	#FECEAB 10px,
+  	#FFAAA6 10px,
+  	#FFAAA6 20px
+	);
+}
+
+ul {
+	display: inline-block;
+	font-size: 20px;
+	list-style: Star inside url("Doces/Estrela_F.png")
+}
+
+.OBS {
+	background: #FECEAB;
+	padding:20px;
+	margin: 20px;
+	margin-bottom: 50px;
+	border: 15px solid #C72C41;
+	border-style: ridge;
+}
+
