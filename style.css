@@ -89,7 +89,7 @@ strong em {
 ul {
 	display: inline-block;
 	font-size: 20px;
-	list-style: Star inside url("Estrela_F.png")
+	list-style: inside url("Estrela_F.png")
 }
 
 .OBS {
